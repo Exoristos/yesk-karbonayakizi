@@ -8,7 +8,7 @@
 <br>
 
 ## 📌 Proje Hakkında
-Bu proje, Marmara Üniversitesi öğrencileri için özel olarak geliştirilmiş interaktif bir **Karbon Ayak İzi Hesaplama Panosu**'dur. Kulüp etkinliklerinde, tanıtım stantlarında öğrencilerin kendi telefonlarından QR kod okutarak hızlıca karbon ayak izlerini hesaplamaları, kulüp hakkında bilgi almaları ve sürdürülebilirlik farkındalığı kazanmaları amacıyla tasarlanmıştır.
+Bu proje, Marmara Üniversitesi öğrencileri tarafında özel olarak geliştirilmiş interaktif bir **Karbon Ayak İzi Hesaplama Panosu**'dur. Kulüp etkinliklerinde, tanıtım stantlarında öğrencilerin kendi telefonlarından QR kod okutarak hızlıca karbon ayak izlerini hesaplamaları, kulüp hakkında bilgi almaları ve sürdürülebilirlik farkındalığı kazanmaları amacıyla tasarlanmıştır.
 
 Uygulama arka planda **1.500 sentetik öğrenci profilinden** oluşan bir veri setini kullanarak kullanıcının değerlerini ortalama bir öğrenci ile anlık olarak kıyaslar.
 
@@ -16,10 +16,9 @@ Uygulama arka planda **1.500 sentetik öğrenci profilinden** oluşan bir veri s
 * **Çift Dil Desteği:** Tek tıkla Türkçe ve İngilizce arayüz geçişi.
 * **Kapsamlı Kategoriler:** Ulaşım, Teknoloji, Yaşam Tarzı, Moda ve Beslenme olmak üzere 5 ana alanda detaylı emisyon hesaplaması.
 * **Gelişmiş Görselleştirme:** Toplam ayak izini gösteren hız göstergesi (Gauge), detaylı emisyon ağacı (Treemap), ortalama ile kıyaslayan Radar ve Bar grafikleri.
-* **Oyunlaştırma (Gamification):** Ortalamanın altında emisyona sahip kullanıcılara kutlama balonları ve tebrik mesajları.
+* **Oyunlaştırma:** Ortalamanın altında emisyona sahip kullanıcılara kutlama balonları ve tebrik mesajları.
 * **Akıllı Tavsiye Motoru:** Kişinin en çok emisyon ürettiği kategoriye özel anlık sürdürülebilirlik tavsiyeleri.
 * **Mobil Uyumluluk:** Standlarda akıllı telefonlardan mükemmel görünüm için özel CSS optimizasyonu.
-* **Kulüp Entegrasyonu (CTA):** Etkinliğe katılanları YESK Instagram sayfasına yönlendiren özel yönlendirme butonları.
 
 ## 🛠️ Kullanılan Teknolojiler
 * **Python**
@@ -44,3 +43,4 @@ Projeyi kendi bilgisayarında çalıştırmak istersen:
 Bu uygulama **YESK (Yeşil Ekonomi ve Sürdürülebilirlik Kulübü)** tarafından açık kaynak araçlar kullanılarak tasarlanmıştır. Gelişmelerden haberdar olmak ve etkinliklerimize katılmak için bizi takip edin!
 
 👉 [**Instagram: @marmarayesk**](https://instagram.com/marmarayesk)
+
