@@ -1,6 +1,6 @@
 """
 app.py — Carbon Footprint Calculator & Analytics Dashboard (v3)
-Green Economy and Sustainability Club | Boğaziçi University Demo
+Green Economy and Sustainability Club | Marmara University Demo
 """
 
 import streamlit as st
@@ -631,3 +631,4 @@ st.markdown(
     f"<p style='text-align:center;color:#9e9e9e;font-size:.75rem;margin-top:28px'>"
     f"{T['footer']}</p>",
     unsafe_allow_html=True)
+
