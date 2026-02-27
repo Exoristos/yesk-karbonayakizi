@@ -1,0 +1,30 @@
+{
+    "transportation": {
+        "units": "kg CO2/year (avg per mode)",
+        "modes": {
+            "private": 2980.9,
+            "public": 1965.8,
+            "walk/bicycle": 1879.7
+        }
+    },
+    "diet": {
+        "units": "kg CO2/year (avg per diet type)",
+        "modes": {
+            "omnivore": 2392.0,
+            "pescatarian": 2251.8,
+            "vegan": 2215.8,
+            "vegetarian": 2216.8
+        }
+    },
+    "energy": {
+        "units": "kg CO2/year (avg per screen-time category)",
+        "modes": {
+            "High Screen Time (>6h)": 2273.6,
+            "Low Screen Time (≤6h)": 2256.8
+        }
+    },
+    "national_average": {
+        "units": "kg CO2/year",
+        "value": 2269.1
+    }
+}

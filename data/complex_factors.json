@@ -1,0 +1,67 @@
+{
+    "commute_co2_per_km": {
+        "Marmaray + Metro (cross-city)": 28,
+        "Ferry + Bus": 95,
+        "Metrobüs": 65,
+        "Bus Only": 105,
+        "Personal Car (Gasoline)": 192,
+        "Personal Car (Diesel)": 171,
+        "Personal Car (Hybrid)": 110,
+        "Electric Scooter / E-Bike": 15,
+        "Walking / Cycling": 0
+    },
+    "pc_watt": {
+        "High-End Gaming Laptop": 140,
+        "Mid-Range Gaming Laptop": 115,
+        "Standard Office Laptop": 45,
+        "Ultrabook / Thin Laptop": 30,
+        "Desktop Gaming PC": 350,
+        "Desktop Office PC": 100,
+        "Tablet Only": 15
+    },
+    "phone_charge_kwh": {
+        "Flagship Phone (5000 mAh)": 0.025,
+        "Mid-Range Phone (4500 mAh)": 0.022,
+        "Budget Phone (4000 mAh)": 0.018
+    },
+    "grid_co2_kg_per_kwh": 0.47,
+    "heating_co2_kg_day": {
+        "Dormitory (Shared)": 1.5,
+        "Apartment (Natural Gas)": 4.2,
+        "Apartment (Electric)": 3.8,
+        "Family Home (High Usage)": 6.5
+    },
+    "recycling_offset_kg": {
+        "Strict Recycler": -1.5,
+        "Sometimes": -0.5,
+        "Never": 0.0
+    },
+    "diet_base_kg_per_day": {
+        "Heavy Meat Eater": 7.2,
+        "Moderate Meat": 5.6,
+        "Pescatarian": 4.8,
+        "Vegetarian": 3.8,
+        "Vegan": 2.9
+    },
+    "style_multiplier": {
+        "Streetwear / Heavy Denim": 1.3,
+        "Fast Fashion": 1.0,
+        "Vintage / Thrift": 0.3,
+        "Designer / Luxury": 1.5,
+        "Minimal / Capsule": 0.5
+    },
+    "perfume_shipping_kg_day": {
+        "Never": 0,
+        "Rarely (1-2/yr)": 0.00137,
+        "Sometimes (3-6/yr)": 0.00548,
+        "Frequently (monthly)": 0.0137
+    },
+    "averages": {
+        "transport": 2.54,
+        "tech": 3.65,
+        "lifestyle": 1.11,
+        "fashion": 1.93,
+        "diet": 5.18,
+        "total": 14.41
+    }
+}

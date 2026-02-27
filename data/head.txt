@@ -1,0 +1,21 @@
+﻿                                               0                       1
+Body Type                             overweight                   obese
+Sex                                       female                  female
+Diet                                 pescatarian              vegetarian
+How Often Shower                           daily         less frequently
+Heating Energy Source                       coal             natural gas
+Transport                                 public            walk/bicycle
+Vehicle Type                                 NaN                     NaN
+Social Activity                            often                   often
+Monthly Grocery Bill                         230                     114
+Frequency of Traveling by Air         frequently                  rarely
+Vehicle Monthly Distance Km                  210                       9
+Waste Bag Size                             large             extra large
+Waste Bag Weekly Count                         4                       3
+How Long TV PC Daily Hour                      7                       9
+How Many New Clothes Monthly                  26                      38
+How Long Internet Daily Hour                   1                       5
+Energy efficiency                             No                      No
+Recycling                              ['Metal']               ['Metal']
+Cooking_With                   ['Stove', 'Oven']  ['Stove', 'Microwave']
+CarbonEmission                              2238                    1892

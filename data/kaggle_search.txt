@@ -1,0 +1,42 @@
+﻿ref,title,size,lastUpdated,downloadCount,voteCount,usabilityRating
+
+openfoodfacts/world-food-facts,Open Food Facts,114050691,2017-09-18 12:27:58.027000,84576,1278,0.8235294
+
+selfvivek/environment-impact-of-food-production,Environment Impact of Food Production,3640,2020-08-04 06:59:29.883000,18059,221,0.85294116
+
+thedevastator/global-fossil-co2-emissions-by-country-2002-2022,Emissions by Country,1789031,2024-03-10 19:10:37.890000,15077,191,1
+
+footprintnetwork/ecological-footprint,2016 Global Ecological Footprint,9042,2017-03-02 15:00:03.780000,6368,163,0.85294116
+
+patricklford/water-and-air-quality,Water Quality -  Every Drop Matters.,286963,2024-01-13 22:29:17.307000,6107,110,1
+
+alistairking/nyc-building-energy-efficiency-ratings,NYC Building Energy Efficiency Ratings,22134,2024-03-06 03:20:27.800000,3153,87,1
+
+michaeldelamaza/ft-global-business-school-top-100-mba-ranking-2024,FT Global Business School Top 100 MBA Ranking 2024,7138,2024-08-26 14:31:24.137000,1060,63,1
+
+dumanmesut/individual-carbon-footprint-calculation,Individual Carbon Footprint Calculation,242176,2024-02-14 15:22:24.573000,3483,63,1
+
+muhammadaammartufail/global-greenhouse-gas-emissions-from-agriculture,Global Greenhouse Gas Emissions from Agriculture.,199939,2026-01-21 08:58:56.540000,235,62,1
+
+patricklford/life-but-not-as-we-know-it,We did not weave the web of life !,27715084,2023-10-08 16:53:46.787000,1187,58,0.9411765
+
+iamsouravbanerjee/production-based-co2-emissions,Countrywise Production-Based CO2 Emissions,5260,2023-10-05 06:11:20.770000,1290,57,1
+
+amanaayush/apple-emission-dataset,Apple Emission Dataset,2905,2024-04-09 09:16:05.940000,64,54,0.3529412
+
+alistairking/u-s-co2-emissions,CO2 Emissions (in U.S.),559356,2024-04-20 21:22:34.290000,1801,51,1
+
+thedevastator/fast-fashion-eco-data,Fast Fashion Eco-Data,9937,2023-02-13 13:39:15.657000,2729,49,1
+
+suvroo/ai-for-sustainable-agriculture-dataset,AI for Sustainable Agriculture​ Dataset,1446248,2025-03-25 06:39:43.807000,1832,49,0.8235294
+
+ezzaldeenesmail/fuel-consumption-co2,Fuel_Consumption_Co2,15579,2025-11-01 17:55:28.730000,139,49,0.47058824
+
+alistairking/u-s-crude-oil-imports,U.S. Crude Oil Imports,4448152,2024-04-28 14:03:57.970000,1960,46,1
+
+atharvasoundankar/futuristic-smart-city-citizen-activity-dataset,📊 Futuristic Smart City Citizen Activity Dataset,23423,2025-03-06 04:58:22.513000,2256,41,1
+
+saloni1712/co2-emissions,CO2 Emissions by Sectors ,1287992,2023-07-27 11:46:10.727000,3254,40,1
+
+pavankumar4757/butter-e-energy-data-for-deep-learning-models,BUTTER-E: Energy Data for Deep Learning Models,2940491,2025-01-11 13:41:14.203000,184,36,0.64705884
+
