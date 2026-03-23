@@ -8,7 +8,7 @@
 <br>
 
 ## 📌 Proje Hakkında
-Bu proje, Marmara Üniversitesi öğrencileri için özel olarak geliştirilmiş interaktif bir **Karbon Ayak İzi Hesaplama Panosu**'dur. Kulüp etkinliklerinde, tanıtım stantlarında öğrencilerin kendi telefonlarından QR kod okutarak hızlıca karbon ayak izlerini hesaplamaları, kulüp hakkında bilgi almaları ve sürdürülebilirlik farkındalığı kazanmaları amacıyla tasarlanmıştır.
+Bu proje, Marmara Üniversitesi öğrencilerinden Enis tarafından özel olarak geliştirilmiş interaktif bir **Karbon Ayak İzi Hesaplama Panosu**'dur. Kulüp etkinliklerinde, tanıtım stantlarında öğrencilerin kendi telefonlarından QR kod okutarak hızlıca karbon ayak izlerini hesaplamaları, kulüp hakkında bilgi almaları ve sürdürülebilirlik farkındalığı kazanmaları amacıyla tasarlanmıştır.
 
 Uygulama arka planda **1.500 sentetik öğrenci profilinden** oluşan bir veri setini kullanarak kullanıcının değerlerini ortalama bir öğrenci ile anlık olarak kıyaslar.
 
